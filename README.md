@@ -1,3 +1,4 @@
+# It is for the DLSITE's folder
 # How to use?
 1. Install python and beatifulsoup
 2. Open cmd in the folder
