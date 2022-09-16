@@ -1,4 +1,4 @@
-# It is for the DLSITE's folder
+# It is for the DLSITE's files
 # How to use?
 1. Install python and beatifulsoup
 2. Open cmd in the folder
