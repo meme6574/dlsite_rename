@@ -40,6 +40,7 @@ for file in files:
     else:
         print(file +' is not dlsite file')
     print('\n')
-print('\n Error:')
-for name in errorlist:
-    print(name)
+if len(errorlist)>0:
+    print('\nError:')
+    for name in errorlist:
+        print(name)
