@@ -36,4 +36,4 @@ Error:
 RJ352628
 RJ352741
 # Future update?
-1. solve halfwidth and fullwidth's problem (?/\: etc), in the example, it cannot rename because of "?"
+1. solve halfwidth and fullwidth's problem (?/\: etc), in the example, it cannot rename because it contains "?" in the name
