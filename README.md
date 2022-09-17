@@ -1,7 +1,7 @@
 # Rename DLsite product, eg From RJ123456 - > RJ123456 ABCDEF, where is code + title
 # requirment
-Python 310
-BeautifulSoup4
+1. Python 310
+2. BeautifulSoup4
 # How to use?
 1. Install python and beatifulsoup
 2. Open cmd in the folder
